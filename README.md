@@ -12,6 +12,8 @@ To write a python program to find the inverse of a matrix
 
 ## Program:
 ## Output:
+<img width="961" height="777" alt="image" src="https://github.com/user-attachments/assets/e55b6a2d-23a7-466f-85b9-b1b28623a5b5" />
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
